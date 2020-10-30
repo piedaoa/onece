@@ -49,5 +49,5 @@ void loop()
     delay(3000);
     lcd.setRotation(3);
     func2();
-    delay(300);
+    delay(500);
 }
